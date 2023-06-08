@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "801559983275",
+    "project_id": "flash-chat-e4acc",
+    "storage_bucket": "flash-chat-e4acc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801559983275:android:8b8ac86bea46e6204bf3ee",
+        "android_client_info": {
+          "package_name": "com.Shiffa.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801559983275-fdtt35opm92huue20nnj8cn8p4p8cqn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBDWL5OMco0jW6p7mOfwJsb9iQr9jOlEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801559983275-fdtt35opm92huue20nnj8cn8p4p8cqn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
